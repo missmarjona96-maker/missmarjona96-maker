@@ -11,4 +11,4 @@
 ---
 
 ### 🔗 Let's connect
-- 📬 [Telegram](https://t.me/Tme0813) &nbsp; 💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp; 🧠 [LeetCode](https://leetcode.com/u/TurgunovDostonbek) &nbsp; 🧩 [Codewars](https://www.codewars.com/trainer/setup) 
+- 📬 [Telegram](https://web.telegram.org/) &nbsp; 💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp; 🧩 [Codewars](https://www.codewars.com/trainer/setup) 
