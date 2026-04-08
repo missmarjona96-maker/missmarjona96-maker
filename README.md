@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Marjona...</h1>
+<h3 align="center">Frontend Developer from Uzbekistan.</h3>
 
-<!--
-**missmarjona96-maker/missmarjona96-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,github,,md&theme=light" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Let's connect
+- 📬 [Telegram](https://t.me/Tme0813) &nbsp; 💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp; 🧠 [LeetCode](https://leetcode.com/u/TurgunovDostonbek) &nbsp; 🧩 [Codewars](https://www.codewars.com/trainer/setup) 
